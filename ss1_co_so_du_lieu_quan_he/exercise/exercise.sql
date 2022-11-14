@@ -3,7 +3,7 @@ create table class(
   id int primary key, 
   `name` varchar(45)
 );
-create table teteacheracher(
+create table teacher(
   id int primary key, 
   `name` varchar(45), 
   age int, 
