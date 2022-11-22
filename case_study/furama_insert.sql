@@ -84,7 +84,7 @@ values
 (5,'Buffet buổi trưa','90000','suất','đầy đủ đồ ăn, tráng miệng'),
 (6,'Buffet buổi tối','16000','suất','đầy đủ đồ ăn, tráng miệng');
 
-insert into hop_dong ( ma_hop_dong,ngay_lam_hop_dong,ngay_ket_thuc,tien_dat_coc,ma_nhan_vien,ma_khach_hang,ma_dich_vu)
+insert into hop_dong (ma_hop_dong, ngay_lam_hop_dong, ngay_ket_thuc, tien_dat_coc, ma_nhan_vien, ma_khach_hang, ma_dich_vu)
 values
 (1,'2020-12-08','2020-12-08',0,3,1,3),
 (2,'2020-07-14','2020-07-21','200000',7,3,1),
@@ -99,7 +99,7 @@ values
 (11,'2021-04-25','2021-04-25',0,2,2,1),
 (12,'2021-05-25','2021-05-27',0,7,10,1);
 
-insert into hop_dong_chi_tiet (ma_hop_dong_chi_tiet,so_luong,ma_hop_dong,ma_dich_vu_di_kem)
+insert into hop_dong_chi_tiet (ma_hop_dong_chi_tiet, so_luong, ma_hop_dong, ma_dich_vu_di_kem)
 values
 (1,5,2,4),
 (2,8,2,5),
