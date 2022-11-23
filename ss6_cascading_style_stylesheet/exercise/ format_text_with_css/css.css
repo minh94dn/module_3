@@ -1,0 +1,25 @@
+a{
+    text-decoration: none;
+    color: navy;
+    font-weight: 600;
+}
+a:hover{
+    color: #d61b06;
+}
+div{
+    width: 780px;
+    text-indent: 60px;
+    text-align: justify;
+    font-size: 20px;
+}
+hr{
+    margin: -20px;
+    width: 800px;
+}
+.sup{
+    color: navy;
+    font-size: 10px;
+}
+span{
+    font-weight: 600;
+}
