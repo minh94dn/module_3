@@ -1,0 +1,36 @@
+
+header{
+    position: relative;
+    color: white;
+    margin: 60px;
+
+}
+h1{
+    font-weight: 600;
+    font-size: 80px;
+}
+h3{
+    margin: 50px 0;
+}
+.slice2{
+    background: black;
+    background-size: cover;
+    text-align: center;
+
+}
+.slice2 a{
+    text-decoration: none;
+    color: white;
+}
+.slice2 a:hover{
+    color: #4684f1;
+}
+.slice1{
+    height: 40px;
+    background-color: #E8ECF5;
+    line-height: 40px;
+}
+.deals{
+
+    color: #d61b06;
+}
