@@ -1,0 +1,28 @@
+.card {
+    width: 24%;
+    margin: 5px;
+}
+
+.card img {
+    padding: initial;
+}
+
+.row {
+    padding: 20px;
+}
+
+.row .card {
+    padding: 0;
+}
+
+body {
+    padding-left: 10px;
+}
+
+h3 {
+    margin-top: 20px;
+}
+
+h6 {
+    margin-top: 20px;
+}
